@@ -1,0 +1,8 @@
+pandas>=2.0,<3
+numpy
+duckdb
+sqlglot
+scikit-learn
+openpyxl
+jupyterlab
+# on the Workbench additionally: google-cloud-bigquery, db-dtypes
